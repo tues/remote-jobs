@@ -262,6 +262,7 @@ Rocana | https://www.rocana.com/ |
 Safari Books Online | https://www.safaribooksonline.com |
 Salesforce | https://www.salesforce.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
+[Scalac](/company-profiles/scalac.md) | https://scalac.io | Worldwide
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
